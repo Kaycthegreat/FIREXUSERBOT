@@ -11,7 +11,7 @@
  
 ## ᑈֆօƈɨǟʟ ՏԵɑԵմՏ օƒ ɮօԵ ᐵ 
 
-<p align="left"><a href="https://github.com/Kaychthegreat/FIREXUSERBOT/network/members"><img src="https://img.shields.io/github/forks/TeamEviral/FIREXUSERBOT?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/FIREXUSERBOT/stargazers"><img src="https://img.shields.io/github/stars/TeamEviral/FIREXUSERBOT?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/FIREXUSERBOT"><img src="https://img.shields.io/github/last-commit/TeamEviral/FIREXUSERBOT?logoColor=brown&style=plastic"></a>
+<p align="left"><a href="https://github.com/Kaychthegreat/FIREXUSERBOT/network/members"><img src="https://img.shields.io/github/forks/TeamEviral/FIREXUSERBOT?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/Kaycthegreat/FIREXUSERBOT/stargazers"><img src="https://img.shields.io/github/stars/TeamEviral/FIREXUSERBOT?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/FIREXUSERBOT"><img src="https://img.shields.io/github/last-commit/TeamEviral/FIREXUSERBOT?logoColor=brown&style=plastic"></a>
    
 ## Star The [Repo](https://github.com/Kaycthegreat/FIREXUSERBOT/stargazers) Now.
    - Don't forget to star this repo. It motivates us to contribute more for you.
@@ -24,7 +24,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 
 ## FIRST TRY THIS TO DEPLOY ON HEROKU  FROM THIS LINK  IF NOT WORKS FOLLOW BELOW STEP
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamEviral/FIREX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaycthegreat/FIREX)
 
 ## Heroku Salesforce Error Solution
 - Make a github Account.
